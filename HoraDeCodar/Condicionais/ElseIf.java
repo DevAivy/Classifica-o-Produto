@@ -12,10 +12,10 @@ public class ElseIf {
 
         System.out.println("Qual seu nome?");
         String receptor = scanner.nextLine();
-        if (receptor.equals("Carol")){
-            System.out.println("Você é o amor da minha vida!");
+        if (receptor.equals("Cxxl")){
+            System.out.println("Vxxxx!");
         } else {
-            System.out.println("Você é uma piranha");
+            System.out.println("xxxx");
         }
         scanner.close();
     }
